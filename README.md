@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @TempHardCoreJerry
-- 👀 I’m interested in LUA and HTML
-- 🌱 I’m currently learning the old history books
-- 💞️ I’m in relation
-- 📫 How to reach me in discord hardcorejerry
-- 😄 Pronouns: HardCoreJerry
-- ⚡ Fun fact: I'm from Colombia and I like the differents cultures
+# TempHardCoreJerry
 
-<!---
-TempHardCoreJerry/TempHardCoreJerry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m @TempHardCoreJerry
+
+
+### Principal account
+
+- [@HardCoreScripts](https://github.com/HardCoreScripts)
+
+### 🚀 About Me
+
+This account it's only the academy projects and adding the new certificates using this programing languages:
+
+- HTML
+- CSS
+- JavaScript
+- Svelte
+- Lua
+- React
+
+It's only to upload that projects, so, if you see new options or the best optimisation of the code you can contact me: hardcorejerrycdh@gmail.com
