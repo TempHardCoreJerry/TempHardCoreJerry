@@ -20,8 +20,8 @@ This account it's only the academy projects and adding the new certificates usin
 
 It's only to upload that projects, so, if you see new options or the best optimisation of the code you can contact me: hardcorejerrycdh@gmail.com
 
-[![Anurag's GitHub stats] (https://github-readme-stats.vercel.app/api?username=TempHardCoreJerry)](https://github.com/TempHardCoreJerry/github-readme-stats)
-[![Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/?username=TempHardCoreJerry) ](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TempHardCoreJerry)](https://github.com/TempHardCoreJerry/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TempHardCoreJerry) ](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### I Spent My Time On
